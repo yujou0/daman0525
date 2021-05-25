@@ -1,18 +1,18 @@
 
 .slide_brand1{
     max-height: 816px;
-    background-image: url(/image/brand/02d5b3258cd101d9bc31e74b44ee306e@3x.png);
+    background-image: url(./image/brand/02d5b3258cd101d9bc31e74b44ee306e@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .slide_brand2{
     max-height: 816px;
-    background-image: url(/image/brand/02d5b3258cd101d9bc31e74b44ee306e@3x.png);
+    background-image: url(./image/brand/02d5b3258cd101d9bc31e74b44ee306e@3x.png);
     background-size: cover;
   }
   .slide_brand3{
     max-height: 816px;
-    background-image: url(/image/brand/02d5b3258cd101d9bc31e74b44ee306e@3x.png);
+    background-image: url(./image/brand/02d5b3258cd101d9bc31e74b44ee306e@3x.png);
     background-size: cover;
   }
   .swiper-container {
