@@ -1,6 +1,6 @@
 /* SECTION01 */
 .portfolio_section01{
-    background-image: url(/image/luxurycontent/docx-03@3x.png);
+    background-image: url(./image/luxurycontent/docx-03@3x.png);
     width: 100%;
     height: 455px;
     background-size: cover;
@@ -42,7 +42,7 @@
     padding: 1% 2%;
 }
 .smallimg01{
-    background-image: url(/image/luxurycontent/浮水印2-09@3x.png);
+    background-image: url(./image/luxurycontent/浮水印2-09@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 269px;
@@ -50,7 +50,7 @@
     filter: grayscale(80%);
 }
 .smallimg02{
-    background-image: url(/image/luxurycontent/中悅八京.docx-18@2x.png);
+    background-image: url(./image/luxurycontent/中悅八京.docx-18@2x.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 269px;
@@ -58,7 +58,7 @@
     filter: grayscale(80%);
 }
 .smallimg03{
-    background-image: url(/image/luxurycontent/中悅八京.docx-11@2x.png);
+    background-image: url(./image/luxurycontent/中悅八京.docx-11@2x.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 269px;
@@ -66,7 +66,7 @@
     filter: grayscale(80%);
 }
 .smallimg04{
-    background-image: url(/image/luxurycontent/中悅八京.docx-06@3x.png);
+    background-image: url(./image/luxurycontent/中悅八京.docx-06@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 269px;

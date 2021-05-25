@@ -41,7 +41,7 @@
 }
 
 .portfolioimg01 {
-    background-image: url(/image/commercial/img01.png);
+    background-image: url(./image/commercial/img01.png);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-filter: grayscale(100%);
@@ -50,7 +50,7 @@
 }
 
 .portfolioimg02 {
-    background-image: url(/image/luxury/img02.png);
+    background-image: url(./image/luxury/img02.png);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-filter: grayscale(100%);
@@ -59,7 +59,7 @@
 }
 
 .portfolioimg03 {
-    background-image: url(/image/luxury/maarten-deckers-T5nXYXCf50I-unsplash@3x.png);
+    background-image: url(./image/luxury/maarten-deckers-T5nXYXCf50I-unsplash@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-filter: grayscale(100%);
@@ -178,7 +178,7 @@
 }
 
 .luxuryimgone {
-    background-image: url(/image/residential/07@3x.png);
+    background-image: url(./image/residential/07@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -186,7 +186,7 @@
 }
 
 .luxuryimgtwo {
-    background-image: url(/image/residential/11@3x.png);
+    background-image: url(./image/residential/11@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -194,7 +194,7 @@
 }
 
 .luxuryimgthree {
-    background-image: url(/image/residential/14854194a80f15b44cfd2bd3b6b23441@3x.png);
+    background-image: url(./image/residential/14854194a80f15b44cfd2bd3b6b23441@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -202,7 +202,7 @@
 }
 
 .luxuryimgfour {
-    background-image: url(/image/residential/14@3x.png);
+    background-image: url(./image/residential/14@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -210,7 +210,7 @@
 }
 
 .luxuryimgfive {
-    background-image: url(/image/residential/3eae9cad2c1a187fbaf5e3cba9413708@3x.png);
+    background-image: url(./image/residential/3eae9cad2c1a187fbaf5e3cba9413708@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -218,7 +218,7 @@
 }
 
 .luxuryimgsix {
-    background-image: url(/image/luxury/e5c16192db1eed4de4c0a7809d77caa0@3x.png);
+    background-image: url(./image/luxury/e5c16192db1eed4de4c0a7809d77caa0@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;

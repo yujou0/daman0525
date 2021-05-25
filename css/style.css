@@ -534,7 +534,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 .section02_div03 {
     width: 60%;
     height: 816px;
-    background-image: url(/image/section02_div03.png);
+    background-image: url(./image/section02_div03.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     float: right;
@@ -1020,7 +1020,7 @@ ul {
     height: 350px;
     padding-top: 235px;
     padding-left: 120px;
-    background-image: url(/image/section06bg.png);
+    background-image: url(./image/section06bg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
