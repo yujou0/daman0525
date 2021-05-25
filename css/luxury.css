@@ -1,0 +1,351 @@
+/* SECTION01 */
+
+/* .portfolio_section01 {
+    background-image: url(/image/luxury/banner01.png);
+    width: 100%;
+    height: 455px;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.portfolio_banner{
+    width: 100%;
+    max-height: 550PX;
+}
+.portfolio_banner img{
+    width: 100%;
+    max-height: 550PX;
+}
+/* SECTION02 */
+
+.portfolio_section02 {
+    position: absolute;
+    width: 100%;
+    margin-top: -100px;
+    padding: 50px 0;
+    /* background-color: red; */
+    /* background-image: linear-gradient(to top, rgb(0, 0, 0,1), rgba(255, 255, 255, 0)); */
+    background-image: linear-gradient(to top, rgba(26, 28, 25, 1) 79%, rgba(255, 255, 255, 0.0001));
+}
+
+.portfolio_section02 .portfolioimgs {
+    width: 50%;
+    margin: auto;
+}
+
+.portfolio_section02 .portfolioimgs div {
+    width: 269px;
+    height: 150px;
+    margin: 0 20px;
+    color: white;
+    /* padding: 40px 65px; */
+}
+
+.portfolioimg01 {
+    background-image: url(/image/luxury/img01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-filter: grayscale(100%);
+    /* Chrome, Safari, Opera */
+    filter: grayscale(70%);
+}
+
+.portfolioimg02 {
+    background-image: url(/image/luxury/img02.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-filter: grayscale(100%);
+    /* Chrome, Safari, Opera */
+    filter: grayscale(80%);
+}
+
+.portfolioimg03 {
+    background-image: url(/image/luxury/maarten-deckers-T5nXYXCf50I-unsplash@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-filter: grayscale(100%);
+    /* Chrome, Safari, Opera */
+    filter: grayscale(80%);
+}
+
+.portfolioimg01:hover, .portfolioimg02:hover, .portfolioimg03:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+}
+
+/* SECTION03 */
+
+.portfolio_section03 {
+    background-color: #1a1c19;
+    color: white;
+}
+
+.portfolio_section03_title {
+    width: 100%;
+    height: 15vh;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+    letter-spacing: 3.24px;
+}
+
+.luxuryimgone_text {
+    position: absolute;
+    top: 50%;
+    right: 30%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-30%);
+    -moz-transform: translateX(-30%);
+    -ms-transform: translateX(-30%);
+    -o-transform: translateX(-30%);
+}
+
+.luxuryimgtwo_text {
+    position: absolute;
+    top: 50%;
+    right: 20%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-20%);
+    -moz-transform: translateX(-20%);
+    -ms-transform: translateX(-20%);
+    -o-transform: translateX(-20%);
+}
+
+.luxuryimgthree_text {
+    position: absolute;
+    top: 50%;
+    right: 38%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-38%);
+    -moz-transform: translateX(-38%);
+    -ms-transform: translateX(-38%);
+    -o-transform: translateX(-38%);
+}
+
+.luxuryimgfour_text {
+    position: absolute;
+    top: 50%;
+    right: 18%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-18%);
+    -moz-transform: translateX(-18%);
+    -ms-transform: translateX(-18%);
+    -o-transform: translateX(-18%);
+}
+
+.luxuryimgfive_text {
+    position: absolute;
+    top: 50%;
+    right: 30%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-30%);
+    -moz-transform: translateX(-30%);
+    -ms-transform: translateX(-30%);
+    -o-transform: translateX(-30%);
+}
+
+.luxuryimgsix_text {
+    position: absolute;
+    top: 50%;
+    right: 30%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-30%);
+    -moz-transform: translateX(-30%);
+    -ms-transform: translateX(-30%);
+    -o-transform: translateX(-30%);
+}
+.luxuryimgone:hover, .luxuryimgtwo:hover, .luxuryimgthree:hover, .luxuryimgfour:hover, .luxuryimgfive:hover, .luxuryimgsix:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+}
+
+.luxuryimgone {
+    /* height: 60vh; */
+    background-image: url(/image/luxury/img03.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+
+.luxuryimgtwo {
+    background-image: url(/image/luxury/2bcc2fdaea9274612e297874fb4fd4c4@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+
+.luxuryimgthree {
+    /* height: 60vh; */
+    background-image: url(/image/luxury/5cc915fb75f5c4b4536895a47546919b@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+
+.luxuryimgfour {
+    /* height: 60vh; */
+    background-image: url(/image/luxury/a2618d396e2f546698d6d8e1d9ef7650@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+
+.luxuryimgfive {
+    background-image: url(/image/luxury/docx-06@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+
+.luxuryimgsix {
+    /* height: 60vh; */
+    background-image: url(/image/luxury/e5c16192db1eed4de4c0a7809d77caa0@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+
+.page-link {
+    background: none !important;
+    color: white !important;
+    margin-left: 5px !important;
+    padding: 20px !important;
+}
+
+.page-link:hover {
+    background: grey !important;
+}
+
+@media screen and (min-width: 550px) and (max-width: 990px) {
+    .luxuryimgone_text {
+        right: 33%;
+        -webkit-transform: translateX(-33%);
+        -moz-transform: translateX(-33%);
+        -ms-transform: translateX(-33%);
+        -o-transform: translateX(-33%);
+    }
+    .luxuryimgtwo_text {
+        right: 25%;
+        -webkit-transform: translateX(-25%);
+        -moz-transform: translateX(-25%);
+        -ms-transform: translateX(-25%);
+        -o-transform: translateX(-25%);
+    }
+    .luxuryimgthree_text {
+        right: 33%;
+        -webkit-transform: translateX(-33%);
+        -moz-transform: translateX(-33%);
+        -ms-transform: translateX(-33%);
+        -o-transform: translateX(-33%);
+    }
+    .luxuryimgfour_text {
+        right: 25%;
+        -webkit-transform: translateX(-25%);
+        -moz-transform: translateX(-25%);
+        -ms-transform: translateX(-25%);
+        -o-transform: translateX(-25%);
+    }
+    .luxuryimgfive_text {
+        right: 33%;
+        -webkit-transform: translateX(-33%);
+        -moz-transform: translateX(-33%);
+        -ms-transform: translateX(-33%);
+        -o-transform: translateX(-33%);
+    }
+    .luxuryimgsix_text {
+        right: 25%;
+        -webkit-transform: translateX(-25%);
+        -moz-transform: translateX(-25%);
+        -ms-transform: translateX(-25%);
+        -o-transform: translateX(-25%);
+    }
+    .portfolioimgs h4{
+        /* font-size: 1.2rem !important; */
+        min-width:200px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .portfolio_section03 h2{
+        font-size: 1.8rem;
+    }
+    
+.portfolio_section03_title {
+    height: 20vh;
+    line-height: 50px;
+}
+    .luxuryimgone_text {
+        right: 25%;
+        -webkit-transform: translateX(-25%);
+        -moz-transform: translateX(-25%);
+        -ms-transform: translateX(-25%);
+        -o-transform: translateX(-25%);
+    }
+    .luxuryimgtwo_text {
+        right: 12%;
+        -webkit-transform: translateX(-12%);
+        -moz-transform: translateX(-12%);
+        -ms-transform: translateX(-12%);
+        -o-transform: translateX(-12%);
+    }
+    .luxuryimgthree_text {
+        right: 25%;
+        -webkit-transform: translateX(-25%);
+        -moz-transform: translateX(-25%);
+        -ms-transform: translateX(-25%);
+        -o-transform: translateX(-25%);
+    }
+    .luxuryimgfour_text {
+        right: 13%;
+        -webkit-transform: translateX(-13%);
+        -moz-transform: translateX(-13%);
+        -ms-transform: translateX(-13%);
+        -o-transform: translateX(-13%);
+    }
+    .luxuryimgfive_text {
+        right: 25%;
+        -webkit-transform: translateX(-25%);
+        -moz-transform: translateX(-25%);
+        -ms-transform: translateX(-25%);
+        -o-transform: translateX(-25%);
+    }
+    .luxuryimgsix_text {
+        right: 13%;
+        -webkit-transform: translateX(-13%);
+        -moz-transform: translateX(-13%);
+        -ms-transform: translateX(-13%);
+        -o-transform: translateX(-13%);
+    }
+    .portfolio_section02 .portfolioimgs div {
+        margin: 0 5px;
+        min-height:100px;
+        width: auto;
+        height: auto;
+    }
+    .portfolioimgs h4{
+        font-size: 1rem !important;
+        min-width:120px;
+    }
+}

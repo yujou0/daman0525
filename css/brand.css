@@ -1,0 +1,150 @@
+
+.slide_brand1{
+    max-height: 816px;
+    background-image: url(/image/brand/02d5b3258cd101d9bc31e74b44ee306e@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .slide_brand2{
+    max-height: 816px;
+    background-image: url(/image/brand/02d5b3258cd101d9bc31e74b44ee306e@3x.png);
+    background-size: cover;
+  }
+  .slide_brand3{
+    max-height: 816px;
+    background-image: url(/image/brand/02d5b3258cd101d9bc31e74b44ee306e@3x.png);
+    background-size: cover;
+  }
+  .swiper-container {
+height: 816px;  
+}
+.brand_banner{
+    width: 100%;
+    max-height: 550px;
+}
+.brand_banner img{
+    width: 100%;
+    max-height: 550px;
+}
+.swipercontent{
+    position: absolute;
+    height: 100%;
+        top: 0;
+        left: 50% !important;
+        bottom: 0;
+        background-image: linear-gradient(to left, rgba(26, 28, 25, 1) 10%, rgba(255, 255, 255, 0.0001));
+
+}
+.company_profIle{
+    width: 331px;
+    height: 206px;
+    margin: 0 63px 60px 0;
+    font-family: NotoSansCJKtc;
+    font-size: 70px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.47;
+    letter-spacing: 1.89px;
+    text-align: left;
+    color: #ffffff;
+}
+.swiper_text{
+    width: 394px;
+    height: 180px;
+    /* margin: 60px 0 0; */
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 1.95px;
+    text-align: left;
+    color: #ffffff;
+}
+.branddesigntext{
+    position: absolute;
+    right: 50px;
+    bottom: -20px;
+}
+.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
+    width: 52px;
+    border-radius: 0%;
+    height: 5px;
+    background-color: #fff;
+}
+
+.DAMANDIRETOR{
+    width: 244px;
+  height: 68px;
+  margin: 60px 92px 150px 0;
+  font-family: NotoSansCJKtc;
+  font-size: 46px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.48;
+  letter-spacing: 19.78px;
+  text-align: left;
+  color: #ffffff;
+}
+.designdirector{
+    /* width: 86px; */
+    height: 25px;
+    margin: 0 65.8px 8px 0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: 4.57px;
+    text-align: left;
+    color: #ffffff;
+}
+.manlin{
+    /* width: 96px; */
+    height: 40px;
+    margin: 8px 0 0 55.8px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 6.16px;
+    text-align: left;
+    color: #ffffff;
+}
+.aboutmanlin{
+    width: 394px;
+    height: 235px;
+    margin: 45px 0 65.7px 0;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 1.95px;
+    text-align: left;
+    color: #ffffff;
+}
+
+@media screen and (max-width: 550px){
+    .swiper-container{
+        max-height: 600px;
+    }
+    .DAMANDIRETOR{
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .company_profIle{
+        font-size: 30px;
+    margin: 0 63px 0px 0;
+    height: 150px;
+
+    }
+
+}

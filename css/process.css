@@ -1,0 +1,108 @@
+/* SECTION01 */
+
+/* .process_section01 {
+    background-image: url(/image/process/13410@3x.png);
+    width: 100%;
+    height: 455px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+} */
+.portfolio_banner{
+    width: 100%;
+    max-height: 550PX;
+}
+.portfolio_banner img{
+    width: 100%;
+    max-height: 550PX;
+}
+/* SECTION02 */
+
+.process_section02 {
+    background-color: #1a1c19;
+    color: white;
+}
+
+.process_section02_title {
+    /* width: 174px; */
+    height: 54px;
+    /* margin: 100px 163px 54px 56px; */
+    font-family: NotoSansCJKtc;
+    font-size: 36px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 3.24px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.mediacontent img {
+    height: 100%;
+    width: 100%;
+}
+
+.designprocess{
+    width: 346px;
+    height: 193px;
+    margin: 0px 124px 30px 61.5px;
+    font-family: NotoSansCJKtc;
+    font-size: 70px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: 1.89px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.process{
+    width: 350px;
+    height: 35px;
+    margin: 10px 120px 29.7px 61.5px;
+    font-family: NotoSansCJKtc;
+    font-size: 24px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 2.16px;
+    text-align: left;
+    color: #ffffff;
+}
+ol{
+    padding-left: 20px ;
+}
+ul{
+    /* width: 184px; */
+    height: 19px;
+    /* margin: 20.1px 29px 21.7px 20px; */
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    /* line-height: 2.77; */
+    /* letter-spacing: 1.95px; */
+    text-align: left;
+    color: #ffffff; 
+}
+
+.processpictwo{
+    max-height: 398px;
+}
+
+
+@media screen and (max-width: 990px){
+    .designprocess ,.process, .processol, .processul{
+        margin-left: 0 !important;
+        padding: 0;
+    }
+    .designprocess{
+        font-size: 30px;
+        height: 100px;
+    }
+
+}

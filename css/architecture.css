@@ -1,0 +1,326 @@
+/* SECTION01 */
+/* .portfolio_section01{
+    background-image: url(/image/architecture/colin-carter-w1g2o4J_4Dg-unsplash@3x.png);
+    width: 100%;
+    height: 455px;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.portfolio_banner{
+    width: 100%;
+    max-height: 550PX;
+}
+.portfolio_banner img{
+    width: 100%;
+    max-height: 550PX;
+}
+/* SECTION02 */
+
+.portfolio_section02 {
+    position: absolute;
+    width: 100%;
+    margin-top: -100px;
+    padding: 50px 0;
+    /* background-color: red; */
+    /* background-image: linear-gradient(to top, rgb(0, 0, 0,1), rgba(255, 255, 255, 0)); */
+    background-image: linear-gradient(to top,rgba(26, 28, 25, 1) 79%,  rgba(255, 255, 255, 0.0001));
+
+
+}
+.portfolio_section02 .portfolioimgs{
+    width: 50%;
+    margin: auto;
+    background-color: ;
+}
+.portfolio_section02 .portfolioimgs div{
+    width: 269px;
+    height: 150px;
+    margin: 0 20px;
+    color: white;
+    /* padding: 40px 65px; */
+}
+.portfolioimg01{
+    background-image: url(/image/commercial/img01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(70%);
+}
+.portfolioimg02{
+    background-image: url(/image/luxury/img01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(80%);
+}
+.portfolioimg03{
+    background-image: url(/image/luxury/img02.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(80%);
+}
+.portfolioimg01:hover, .portfolioimg02:hover,.portfolioimg03:hover{
+    filter: grayscale(0%);
+    cursor: pointer;
+}
+
+/* SECTION03 */
+.portfolio_section03{
+    background-color: #1a1c19;
+    color: white;
+
+}
+.portfolio_section03_title{
+    width: 100%;
+    height: 15vh;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+    letter-spacing: 3.24px;
+}
+.luxuryimgone_text {
+    position: absolute;
+    top: 50%;
+    right: 15%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-15%);
+    -moz-transform: translateX(-15%);
+    -ms-transform: translateX(-15%);
+    -o-transform: translateX(-15%);
+}
+
+.luxuryimgtwo_text {
+    position: absolute;
+    top: 50%;
+    right: 35%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-35%);
+    -moz-transform: translateX(-35%);
+    -ms-transform: translateX(-35%);
+    -o-transform: translateX(-35%);
+}
+
+.luxuryimgthree_text {
+    position: absolute;
+    top: 50%;
+    right: 30%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-30%);
+    -moz-transform: translateX(-30%);
+    -ms-transform: translateX(-30%);
+    -o-transform: translateX(-30%);
+}
+
+.luxuryimgfour_text {
+    position: absolute;
+    top: 50%;
+    right: 18%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-18%);
+    -moz-transform: translateX(-18%);
+    -ms-transform: translateX(-18%);
+    -o-transform: translateX(-18%);
+}
+
+.luxuryimgfive_text {
+    position: absolute;
+    top: 50%;
+    right: 33%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-33%);
+    -moz-transform: translateX(-33%);
+    -ms-transform: translateX(-33%);
+    -o-transform: translateX(-33%);
+}
+
+.luxuryimgsix_text {
+    position: absolute;
+    top: 50%;
+    right: 40%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateX(-40%);
+    -moz-transform: translateX(-40%);
+    -ms-transform: translateX(-40%);
+    -o-transform: translateX(-40%);
+}
+.luxuryimgone:hover, .luxuryimgtwo:hover, .luxuryimgthree:hover, .luxuryimgfour:hover, .luxuryimgfive:hover, .luxuryimgsix:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+}
+
+.luxuryimgone{
+    background-image: url(/image/architecture/8345da02888fa3a9aaafd534b2777164@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+.luxuryimgtwo{
+    background-image: url(/image/architecture/84a866ff647be78a0768e0e8d2311f80@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+.luxuryimgthree{
+    background-image: url(/image/architecture/26ce49eeeb9cc3a154df9e5c2171c693@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+.luxuryimgfour{
+    background-image: url(/image/architecture/a2e2f505f809e68345827fdd190ba34e@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+.luxuryimgfive{
+    background-image: url(/image/architecture/5e685f5ccea2be787fc4777b0c6f7351@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+.luxuryimgsix{
+    background-image: url(/image/architecture/41e5509c3f0ce94c9b9565d0647e4d7f@3x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50%;
+    filter: grayscale(80%);
+}
+.page-link{
+    background: none !important;
+    color: white !important;
+    margin-left: 5px !important;
+    padding: 20px !important;
+}
+.page-link:hover{
+    background: grey !important;
+}
+@media screen and (min-width: 550px) and (max-width: 990px) {
+    .luxuryimgone_text {
+        right: 25%;
+        -webkit-transform: translateX(-25%);
+        -moz-transform: translateX(-25%);
+        -ms-transform: translateX(-25%);
+        -o-transform: translateX(-25%);
+    }
+    .luxuryimgtwo_text {
+        right: 37%;
+        -webkit-transform: translateX(-37%);
+        -moz-transform: translateX(-37%);
+        -ms-transform: translateX(-37%);
+        -o-transform: translateX(-37%);
+    }
+    .luxuryimgthree_text {
+        right: 22%;
+        -webkit-transform: translateX(-22%);
+        -moz-transform: translateX(-22%);
+        -ms-transform: translateX(-22%);
+        -o-transform: translateX(-22%);
+    }
+    .luxuryimgfour_text {
+        right: 22%;
+        -webkit-transform: translateX(-22%);
+        -moz-transform: translateX(-22%);
+        -ms-transform: translateX(-22%);
+        -o-transform: translateX(-22%);
+    }
+    .luxuryimgfive_text {
+        right: 32%;
+        -webkit-transform: translateX(-32%);
+        -moz-transform: translateX(-32%);
+        -ms-transform: translateX(-32%);
+        -o-transform: translateX(-32%);
+    }
+    .luxuryimgsix_text {
+        right: 32%;
+        -webkit-transform: translateX(-32%);
+        -moz-transform: translateX(-32%);
+        -ms-transform: translateX(-32%);
+        -o-transform: translateX(-32%);
+    }
+    .portfolioimgs h4{
+        /* font-size: 1.2rem !important; */
+        min-width:200px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .portfolio_section03 h2{
+        font-size: 1.8rem;
+    }
+    .portfolio_section03_title {
+        height: 20vh;
+        line-height: 50px;
+    }
+    .luxuryimgone_text {
+        right: 15%;
+        -webkit-transform: translateX(-15%);
+        -moz-transform: translateX(-15%);
+        -ms-transform: translateX(-15%);
+        -o-transform: translateX(-15%);
+    }
+    .luxuryimgtwo_text {
+        right: 33%;
+        -webkit-transform: translateX(-33%);
+        -moz-transform: translateX(-33%);
+        -ms-transform: translateX(-33%);
+        -o-transform: translateX(-33%);
+    }
+    .luxuryimgthree_text {
+        right: 12%;
+        -webkit-transform: translateX(-12%);
+        -moz-transform: translateX(-12%);
+        -ms-transform: translateX(-12%);
+        -o-transform: translateX(-12%);
+    }
+    .luxuryimgfour_text {
+        right: 12%;
+        -webkit-transform: translateX(-12%);
+        -moz-transform: translateX(-12%);
+        -ms-transform: translateX(-12%);
+        -o-transform: translateX(-12%);
+    }
+    .luxuryimgfive_text {
+        right: 28%;
+        -webkit-transform: translateX(-28%);
+        -moz-transform: translateX(-28%);
+        -ms-transform: translateX(-28%);
+        -o-transform: translateX(-28%);
+    }
+    .luxuryimgsix_text {
+        right: 28%;
+        -webkit-transform: translateX(-28%);
+        -moz-transform: translateX(-28%);
+        -ms-transform: translateX(-28%);
+        -o-transform: translateX(-28%);
+    }
+    .portfolio_section02 .portfolioimgs div {
+        margin: 0 5px;
+    }
+    .portfolioimgs h4{
+        font-size: 1.2rem !important;
+        min-width:120px;
+    }
+}
