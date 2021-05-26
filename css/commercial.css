@@ -39,21 +39,21 @@
     /* padding: 40px 65px; */
 }
 .portfolioimg01{
-    background-image: url(./image/commercial/img01.png);
+    background-image: url(../image/commercial/img01.png);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
     filter: grayscale(70%);
 }
 .portfolioimg02{
-    background-image: url(./image/luxury/img01.png);
+    background-image: url(../image/luxury/img01.png);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
     filter: grayscale(80%);
 }
 .portfolioimg03{
-    background-image: url(./image/luxury/maarten-deckers-T5nXYXCf50I-unsplash@3x.png);
+    background-image: url(../image/luxury/maarten-deckers-T5nXYXCf50I-unsplash@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
@@ -79,42 +79,42 @@
     letter-spacing: 3.24px;
 }
 .luxuryimgone{
-    background-image: url(./image/commercial/03@3x.png);
+    background-image: url(../image/commercial/03@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
     filter: grayscale(80%);
 }
 .luxuryimgtwo{
-    background-image: url(./image/commercial/0af34d65f2db6c54a1d6634452592281@3x.png);
+    background-image: url(../image/commercial/0af34d65f2db6c54a1d6634452592281@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
     filter: grayscale(80%);
 }
 .luxuryimgthree{
-    background-image: url(./image/commercial/ec085fbab8d6d0f17fd6a602925c002c@3x.png);
+    background-image: url(../image/commercial/ec085fbab8d6d0f17fd6a602925c002c@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
     filter: grayscale(80%);
 }
 .luxuryimgfour{
-    background-image: url(./image/commercial/494dd78af0b84174a985ac01c8a8eef5@3x.png);
+    background-image: url(../image/commercial/494dd78af0b84174a985ac01c8a8eef5@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
     filter: grayscale(80%);
 }
 .luxuryimgfive{
-    background-image: url(./image/commercial/fe10c35e7fa800b688de8e4ba7df717a@3x.png);
+    background-image: url(../image/commercial/fe10c35e7fa800b688de8e4ba7df717a@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
     filter: grayscale(80%);
 }
 .luxuryimgsix{
-    background-image: url(./image/commercial/81a3a286cea9b582c67c69ae52e5ac4e@3x.png);
+    background-image: url(../image/commercial/81a3a286cea9b582c67c69ae52e5ac4e@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;

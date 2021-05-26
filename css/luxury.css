@@ -41,7 +41,7 @@
 }
 
 .portfolioimg01 {
-    background-image: url(./image/luxury/img01.png);
+    background-image: url(../image/luxury/img01.png);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-filter: grayscale(100%);
@@ -50,7 +50,7 @@
 }
 
 .portfolioimg02 {
-    background-image: url(./image/luxury/img02.png);
+    background-image: url(../image/luxury/img02.png);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-filter: grayscale(100%);
@@ -59,7 +59,7 @@
 }
 
 .portfolioimg03 {
-    background-image: url(./image/luxury/maarten-deckers-T5nXYXCf50I-unsplash@3x.png);
+    background-image: url(../image/luxury/maarten-deckers-T5nXYXCf50I-unsplash@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-filter: grayscale(100%);
@@ -178,7 +178,7 @@
 
 .luxuryimgone {
     /* height: 60vh; */
-    background-image: url(./image/luxury/img03.png);
+    background-image: url(../image/luxury/img03.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -186,7 +186,7 @@
 }
 
 .luxuryimgtwo {
-    background-image: url(./image/luxury/2bcc2fdaea9274612e297874fb4fd4c4@3x.png);
+    background-image: url(../image/luxury/2bcc2fdaea9274612e297874fb4fd4c4@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -195,7 +195,7 @@
 
 .luxuryimgthree {
     /* height: 60vh; */
-    background-image: url(./image/luxury/5cc915fb75f5c4b4536895a47546919b@3x.png);
+    background-image: url(../image/luxury/5cc915fb75f5c4b4536895a47546919b@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -204,7 +204,7 @@
 
 .luxuryimgfour {
     /* height: 60vh; */
-    background-image: url(./image/luxury/a2618d396e2f546698d6d8e1d9ef7650@3x.png);
+    background-image: url(../image/luxury/a2618d396e2f546698d6d8e1d9ef7650@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -212,7 +212,7 @@
 }
 
 .luxuryimgfive {
-    background-image: url(./image/luxury/docx-06@3x.png);
+    background-image: url(../image/luxury/docx-06@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
@@ -221,7 +221,7 @@
 
 .luxuryimgsix {
     /* height: 60vh; */
-    background-image: url(./image/luxury/e5c16192db1eed4de4c0a7809d77caa0@3x.png);
+    background-image: url(../image/luxury/e5c16192db1eed4de4c0a7809d77caa0@3x.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;

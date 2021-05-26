@@ -542,7 +542,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 .section02_div03 {
   width: 60%;
   height: 816px;
-  background-image: url(./image/section02_div03.png);
+  background-image: url(../image/section02_div03.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   float: right;
@@ -1029,7 +1029,7 @@ ul {
   height: 350px;
   padding-top: 235px;
   padding-left: 120px;
-  background-image: url(./image/section06bg.png);
+  background-image: url(../image/section06bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -1858,15 +1858,15 @@ writing-mode: vertical-lr ; */
     align-items: center;
   }
   .slide1{
-    background-image: url(./image/敦南愈邸-24@3x.png);
+    background-image: url(../image/敦南愈邸-24@3x.png);
     background-size: cover;
   }
   .slide2{
-    background-image: url(./image/敦南愈邸-24@3x.png);
+    background-image: url(../image/敦南愈邸-24@3x.png);
     background-size: cover;
   }
   .slide3{
-    background-image: url(./image/敦南愈邸-24@3x.png);
+    background-image: url(../image/敦南愈邸-24@3x.png);
     background-size: cover;
   }
   .swiper-slide img {
